@@ -6,6 +6,7 @@
 <h2>Olá! Estou compartilhando um jogo que desenvolvi como parte de um projeto da minha faculdade, utilizando a plataforma Construct 3. Trata-se de um jogo de tiro em que o objetivo é eliminar os inimigos e alcançar a maior pontuação possível. As pontuações são armazenadas em um banco de dados para acompanhamento.</h2>
 
 <h1>📷imagens que utilizei no game📷</h1>
+
   ![shared-0-sheet1 webp](https://github.com/LeandroBorgesdaSilva/Criando-um-Jogo-Low-Code-com-Banco-de-Dados-Relacional/assets/104734317/f9b227dc-81e7-48e1-9d5d-9a212f541bcf)
   
 ![shared-0-sheet2 webp](https://github.com/LeandroBorgesdaSilva/Criando-um-Jogo-Low-Code-com-Banco-de-Dados-Relacional/assets/104734317/afcd90d3-3aae-4d77-bed7-ae394a4d8d93)
